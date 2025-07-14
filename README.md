@@ -28,8 +28,11 @@ Contributed to 20+ scientific publications in clinical, molecular biology, and r
 - *PharmaSUG 2013/2014* — Mapping medical device studies to CDISC SDTM  
 - *PNAS, RNA, Nature Structural Biology* — RNA engineering and protein crystallography  
 
+## 📄 Resume
+Want the full details of my career, skills, and contributions? [Check out my resume here](docs/Timothy_Bullock_Resume.pdf).
+
 ## 🔍 Let's Collaborate
-I'm always open to working on scalable data solutions in healthcare, improving regulatory pipelines, or mentoring teams in clinical programming. Feel free to [connect](mailto:timothy.bullock@gmail.com) or explore more of my work on GitHub!
+I am open to work  the fields of regulatory-compliant medical device submissions, scalable data solutions in healthcare or mentoring others in SAS or SQL programming, modeling and health analytics. Feel free to [connect](mailto:timothy.bullock@gmail.com) or explore more of my work on GitHub!
 
 ---
 
